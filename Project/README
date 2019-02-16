@@ -1,0 +1,24 @@
+To run:
+
+Add "Functions" folder to path. 
+Then run Project.m 
+
+Several lines in Project.m can be changed. 
+To test different case:
+________________
+To remove the "bad" features, remove the comments for lines 39, 40, and 49.
+
+To change number of principal components, change n on line 73 to a value 
+between 1 and N where N is the number of features in the data set.
+
+To change number of hidden layers in the neural network, modify h on 
+line 104. To change the training rate change r on line 106.
+
+For Plots:
+________________
+To view the histogram plot, remove the comment for line 43.
+To view the scatter matrix, remove the comment on line 44. 
+To view the 3D scatter plot, remove the comments on lines 151-156.
+***Note, only set 1 plot function to be active at a time or else the plots
+will have issues as the hold functions will attempt to write over the first 
+figures. 
