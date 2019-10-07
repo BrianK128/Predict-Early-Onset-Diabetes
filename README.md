@@ -20,9 +20,4 @@ k-NN
 
 All algorithms except SVM were implemented by me. You can check them 
 out in the Functions folder.
-____________________________
-
-Feel free to check out the Project Report to view a table with the 
-performance results and relevant graphs and project breakdown.
-
 
